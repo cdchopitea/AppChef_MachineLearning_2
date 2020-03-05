@@ -1,8 +1,8 @@
-# AppChef_MachineLearning_2
+# Apprentice Chef: Halfway There Cross Selling Opportunities
 Using machine learning classification models to predict cross-selling opportunities for Apprentice Chef Inc.
 
 
-Apprentice Chef: Halfway There Cross Selling Opportunities
+
 
 About Apprentice Chef: 
 
